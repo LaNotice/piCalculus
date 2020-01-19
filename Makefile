@@ -5,6 +5,3 @@ pi: main.hs
 
 clean:
 	rm *.hi *.o
-
-mrproper:
-	rm pi
